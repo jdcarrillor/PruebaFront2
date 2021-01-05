@@ -5,7 +5,7 @@
   "proxy": "http://localhost:5000",
   "dependencies": {
     "auth0-js": "^9.10.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-react-intl": "^3.0.1",
     "bootstrap": "^4.3.1",
     "detect-browser-language": "0.0.2",
